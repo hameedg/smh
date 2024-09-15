@@ -16,7 +16,7 @@ export default function Header() {
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center -ml-6">
               <Image
-                src="/public/assets/LandingPageAssets/TransparentLogo.png" 
+                src="/assets/landingPageAssets/TransparentLogo.png" 
                 alt="Company Logo"
                 width={160} // Set a width that matches the logo's original size
                 height={80}  // Set the corresponding height
