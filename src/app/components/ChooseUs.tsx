@@ -40,7 +40,7 @@ export default function WhyChooseUs() {
               ))}
             </div>
             <p className="text-gray-500 md:text-xl dark:text-gray-400">
-              By choosing SMH Corporation, you're not just outsourcing tasks; you're gaining a strategic partner committed to your long-term success. Our client-centric approach, coupled with our industry expertise, ensures that we deliver tailored solutions that drive growth, efficiency, and innovation for your business.
+              By choosing SMH Corporation, you&apos;re not just outsourcing tasks; you&apos;re gaining a strategic partner committed to your long-term success. Our client-centric approach, coupled with our industry expertise, ensures that we deliver tailored solutions that drive growth, efficiency, and innovation for your business.
             </p>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
               <a

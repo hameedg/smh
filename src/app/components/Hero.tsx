@@ -16,7 +16,7 @@ export default function Hero() {
   &nbsp; for Your Business
 </h1>
             <p className="text-md md:text-lg text-muted-foreground max-w-md">
-            At <b className='gradient-text'>SMH Corporation</b>, we know that managing a business comes with its challenges. That's why we're here to offer tailored outsourcing solutions that let you focus on what you do best—growing your business. From startups to large enterprises, our team of experts delivers customized services designed to boost efficiency, cut costs, and enhance your competitive edge.
+            At <b className='gradient-text'>SMH Corporation</b>, we know that managing a business comes with its challenges. That&apos;s why we&apos;re here to offer tailored outsourcing solutions that let you focus on what you do best—growing your business. From startups to large enterprises, our team of experts delivers customized services designed to boost efficiency, cut costs, and enhance your competitive edge.
             </p>
             <Button size="lg" className="text-lg px-8 font-bitter bg-gradient-to-r from-[#5b4b34] to-[#2f4339] hover:bg-gradient-to-l" variant='black'>
               Explore Our Services

@@ -1,6 +1,5 @@
 'use client'
 
-import { useState } from 'react'
 import Link from 'next/link'
 import { Facebook, Twitter, Instagram, MapPin, Phone, Mail } from 'lucide-react'
 
