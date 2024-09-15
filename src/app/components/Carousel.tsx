@@ -7,40 +7,40 @@ import { Button } from './ui/button'
 
 const services = [
   {
-    name: "Energy Boost",
-    image: "/assets/servicesAssets/IT.jpg",
+    name: "IT Outsourcing",
+    image: "/assets/servicesAssets/services/IT_Outsourcing.jpg",
     icons: [Zap, Heart, Star],
-    description: "Revitalize your body and mind with our energy-boosting treatments.",
+    description: "Leveraging external experts to manage your IT functions, allowing you to focus on your core business.",
   },
   {
-    name: "Relaxation Therapy",
-    image: "/assets/servicesAssets/IT.jpg",
+    name: "Business Process Outsourcing",
+    image: "/assets/servicesAssets/services/Business_Process_Outsourcing.jpg",
     icons: [Heart, Star, Zap],
-    description: "Unwind and de-stress with our soothing relaxation therapies.",
+    description: " Delegating non-core business processes to external service providers to enhance efficiency and reduce costs.",
   },
   {
-    name: "Mindfulness Practice",
-    image: "/assets/servicesAssets/IT.jpg",
+    name: "Customer Service Outsourcing",
+    image: "/assets/servicesAssets/services/Customer_Service_Outsourcing.jpg",
     icons: [Star, Zap, Heart],
-    description: "Cultivate awareness and inner peace through guided mindfulness sessions.",
+    description: "Partnering with external specialists to handle your customer support, ensuring high-quality service and freeing up internal resources.",
   },
   {
-    name: "Yoga Sessions",
-    image: "/assets/servicesAssets/IT.jpg",
+    name: "Finance and Accounting Outsourcing",
+    image: "/assets/servicesAssets/services/Finance_and_Accounting_Outsourcing.jpg",
     icons: [Heart, Zap, Star],
-    description: "Improve flexibility and find balance with our expert-led yoga classes.",
+    description: "Engaging external experts to manage your financial operations and bookkeeping, improving accuracy and efficiency while reducing costs.",
   },
   {
-    name: "Nutrition Counseling",
-    image: "/assets/servicesAssets/IT.jpg",
+    name: "HR Outsourcing",
+    image: "/assets/servicesAssets/services/Business_Process_Outsourcing.jpg",
     icons: [Zap, Star, Heart],
-    description: "Discover the perfect diet plan tailored to your unique needs and goals.",
+    description: "Delegating human resources functions to external providers to streamline recruitment, payroll, benefits, and compliance, allowing you to focus on strategic growth.",
   },
   {
-    name: "Meditation Workshops",
-    image: "/assets/servicesAssets/IT.jpg",
+    name: "Healthcare Outsourcing",
+    image: "/assets/servicesAssets/services/IT_Outsourcing.jpg",
     icons: [Star, Heart, Zap],
-    description: "Learn powerful meditation techniques to calm your mind and reduce stress.",
+    description: "Engaging specialized providers to manage healthcare services such as medical billing, telemedicine, and patient care, improving service quality and operational efficiency.",
   },
 ]
 
