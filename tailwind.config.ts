@@ -12,6 +12,16 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        helvetica: ['Helvetica', 'sans-serif'],
+        'helvetica-bold': ['Helvetica Bold', 'sans-serif'],
+        'helvetica-oblique': ['Helvetica Oblique', 'sans-serif'],
+        'helvetica-light': ['Helvetica Light', 'sans-serif'],
+        'helvetica-compressed': ['Helvetica Compressed', 'sans-serif'],
+        'helvetica-rounded-bold': ['Helvetica Rounded Bold', 'sans-serif'],
+
+        bitter: ['Bitter', 'sans-serif'],
+      },
     },
   },
   plugins: [],
